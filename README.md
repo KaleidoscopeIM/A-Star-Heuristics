@@ -1,6 +1,6 @@
-The project aims to search cities(nodes) from a given graph with multiple option such as lowest cost or straight line.
+The project aims to search cities(nodes) from a given graph with multiple option such as fewest nodes or straight line path.
 
-![](animation.gif)  ![](animation1.gif)
+![](animation.gif)  ![](animation2.gif)
 
 Program has multiple stages and at each stage it will ask for an input.
 
