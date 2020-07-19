@@ -1,5 +1,7 @@
 The project aims to search cities(nodes) from a given graph with multiple option such as lowest cost or straight line.
 
+![](animation.gif)
+
 Program has multiple stages and at each stage it will ask for an input.
 
 If there is no path between given start and end city or the graph is disconnected graph, then it will show that there is no path available between two given nodes.
